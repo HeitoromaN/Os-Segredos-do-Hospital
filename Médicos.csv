@@ -1,0 +1,6 @@
+id,nome,area_clinica,documentos,especialidade,convenio
+1,"Dr. João Pereira",Cardiologia,CRM12345,Cardiologista,Unimed
+2,"Dra. Fernanda Souza",Ortopedia,CRM54321,Ortopedista,"Bradesco Saúde"
+3,"Dr. Marcelo Cunha",Dermatologia,CRM67890,Dermatologista,Amil
+4,"Dra. Patricia Santos",Pediatria,CRM09876,Pediatra,SulAmérica
+5,"Dr. Ricardo Lima",Neurologia,CRM11223,Neurologista,NotreDame

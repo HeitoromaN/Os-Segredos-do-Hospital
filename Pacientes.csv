@@ -1,0 +1,6 @@
+id,nome,data_nascimento,endereco,email,telefone,convenio
+1,"Ana Souza",1990-05-15,"Rua das Flores, 123",ana.souza@example.com,11987654321,Unimed
+2,"Carlos Silva",1985-07-22,"Av. Brasil, 456",carlos.silva@example.com,11987654322,"Bradesco Saúde"
+3,"Beatriz Costa",1992-11-30,"Rua das Palmeiras, 789",beatriz.costa@example.com,11987654323,Amil
+4,"Daniel Alves",1978-03-19,"Av. Paulista, 101",daniel.alves@example.com,11987654324,SulAmérica
+5,"Mariana Lima",2000-12-10,"Rua do Carmo, 202",mariana.lima@example.com,11987654325,NotreDame
